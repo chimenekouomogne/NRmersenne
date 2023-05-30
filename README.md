@@ -1,0 +1,2 @@
+# NRmersenne
+petit exo
